@@ -4,5 +4,5 @@ resolusi 2021
 -beasiswa s2.
 -sampingan jadi dosen.
 -sampingan freelance.
--kolab dengan expert.
 -bikin team it dev.
+-bikin seminar
